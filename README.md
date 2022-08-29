@@ -1,7 +1,3 @@
-echo "# contactListApp" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/thomas-kankam/contactListApp.git
-git push -u origin main
+# Contact List API
+
+TODO: An API that displays a list of contacts
